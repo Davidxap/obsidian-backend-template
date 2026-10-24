@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.obsidian/workspace*.json
+.obsidian/plugins/*/data.json
+Machine/Metrics/20*.md
+Machine/Logs/20*.md
+Human/Daily/20*.md
+.env

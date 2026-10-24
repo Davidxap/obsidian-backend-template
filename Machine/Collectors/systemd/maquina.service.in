@@ -1,0 +1,6 @@
+[Unit]
+Description=Run all vault collectors
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/python3 "__VAULT__/Machine/Collectors/run_all.py"
